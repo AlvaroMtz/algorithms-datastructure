@@ -38,5 +38,6 @@ funcion printAllPair(n) {
         }
     }
 }
-//
-//
+// Esta funcion es:
+// O(n) operacions inside of O(n) operations
+// O(n * n)
