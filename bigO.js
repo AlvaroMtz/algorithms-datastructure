@@ -18,3 +18,25 @@ function addUpTo(n) {
 // n ---> asignacion loop inicial
 // n ---> comparacion loop
 
+function addUpTo2(n) {
+    return n * (n + 1) / 2
+}
+
+//Hace lo mismo que la funcion anterior
+//pero en 3 operaciones
+
+//-----------------------------------
+//  La primera funcion es O(n),
+// la segunda es O(1)
+//
+
+// OMG MOAR EXAMPLEZ
+funcion printAllPair(n) {
+    for(var i = 0; i < n; i++) {
+        for(var j = 0; j < n; j++){
+            console.log(i, j)
+        }
+    }
+}
+//
+//
