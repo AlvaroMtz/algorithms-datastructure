@@ -8,8 +8,8 @@ function addUpTo(n) {
     return total
 }
 
-//Tenemos un total de n operaciones,
-//aunque en el fondo son mas,
+//Tenemos un total de n operaciones (veces que el loop es llamado),
+//aunque en el fondo son mas, (operaciones que se realizan dentro del loop)
 // n ---> suma loop
 // n ---> asignación loop final
 // n ---> suma total
